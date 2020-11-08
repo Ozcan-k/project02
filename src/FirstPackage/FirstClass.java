@@ -14,6 +14,8 @@ public class FirstClass {
 		
 		System.out.println("Thirth  commit from master branch");
 		
+		System.out.println("Here is a marge conflict I create local master");
+		
 	}
 
 }
