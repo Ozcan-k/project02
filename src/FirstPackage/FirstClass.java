@@ -11,6 +11,9 @@ public class FirstClass {
 		System.out.println("First  commit from master branch");
 		
 		System.out.println("Second  commit from master branch");
+		
+		System.out.println("Thirth  commit from master branch");
+		
 	}
 
 }
