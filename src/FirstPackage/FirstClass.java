@@ -5,6 +5,8 @@ public class FirstClass {
 		System.out.println("First commit frome local master");
 		
 		System.out.println("Second commit frome local master");
+		
+		System.out.println("Thirth commit frome local master");
 	}
 
 }
